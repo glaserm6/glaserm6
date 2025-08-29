@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glaserm6
 - 👀 I’m interested in AI interactions with the world!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning and enhancing my knowledge in Java
 - ⚡ Fun fact: I read 100 books last year!
 
 <!---
