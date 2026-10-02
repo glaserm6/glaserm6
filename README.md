@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://glaserm6.github.io/">
+<a href="[https://glaserm6.github.io/](https://glaserm6.github.io/MackenzieGlaser.github.io/)">
 <img src="https://img.shields.io/badge/🌐_PERSONAL_SITE-Visit_Portfolio-000000?style=for-the-badge&labelColor=111111" />
 </a>
 &nbsp;
@@ -362,7 +362,7 @@ Some things are better when you have to choose the songs yourself.
 
 ### 🌐 PERSONAL WEBSITE
 
-<a href="https://glaserm6.github.io/">
+<a href="[https://glaserm6.github.io/](https://glaserm6.github.io/MackenzieGlaser.github.io/)">
 <img src="https://img.shields.io/badge/ENTER_THE_SITE-glaserm6.github.io-111111?style=for-the-badge" />
 </a>
 
@@ -405,5 +405,5 @@ I'm mostly interested in seeing how far I can take it.**
 <br>
 
 <sub>© 2026 Mackenzie Glaser · Built with curiosity, mathematics, and entirely too much coffee.</sub>
-
+</div>
 </div>
