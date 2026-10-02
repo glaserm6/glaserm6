@@ -238,8 +238,14 @@ Research investigating student authorship, autonomy, and interaction when workin
 
 ### Areas I'm particularly interested in:
 
-```text
-MATHEMATICS, PROBABILITY, STATISTICS, LINEAR ALGEBRA, DATA ANALYSIS, MACHINE LEARNING, REAL-WORLD DATA
+- 📐 Mathematics
+- 🎲 Probability
+- 📊 Statistics
+- 🧮 Linear Algebra
+- 📈 Data Analysis
+- 🤖 Machine Learning
+- 🌎 Real-World Data
+
 ---
 
 # HEALTH + DATA
@@ -329,52 +335,28 @@ Some things are better when you have to choose the songs yourself.
 
 ---
 
-```
 
-I'm continuing to explore careers where I can combine:
-
-**technical skills + mathematics + research + meaningful data.**
-
----
-
-# `11` — ACADEMIC SNAPSHOT
+# ACADEMIC SNAPSHOT
 
 ```text
-
+┌─────────────────────────────────────────────────────┐
+│                                                     │
 │  NORTHERN KENTUCKY UNIVERSITY                       │
-
+│                                                     │
 │  B.S. COMPUTER SCIENCE                              │
 │  MINOR — MATHEMATICS                                │
 │  MINOR — NEUROSCIENCE                               │
-
+│                                                     │
 │  GPA ...................................... 4.0/4.0 │
 │  EXPECTED GRADUATION ..................... MAY 2027 │
-
+│                                                     │
 │  L.I.F.E. UNDERGRADUATE FELLOW                      │
-
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
-
 ---
 
-# `12` — WHAT I'M LOOKING FOR
-
-I'm interested in opportunities involving:
-
-`DATA ANALYSIS`  
-`STATISTICS`  
-`HEALTH INFORMATICS`  
-`BIOSTATISTICS`  
-`MACHINE LEARNING`  
-`RESEARCH`  
-`HUMAN-AI INTERACTION`  
-`COMPUTER VISION`  
-`SOFTWARE DEVELOPMENT`
-
-Especially opportunities where I can combine multiple disciplines rather than staying inside one box.
-
----
-
-# `13` — FIND ME
+# FIND ME
 
 <div align="center">
 
